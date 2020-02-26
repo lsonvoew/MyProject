@@ -6,17 +6,24 @@
 
 #### LED示意图：
 
-<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/led.png" alt="led" style="zoom:75%;" />
+<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/led.png" />
 
 #### 多投影示意图：
 
-<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/multiproject.png" style="zoom:133%;" />
+<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/multiproject.png" />
 
 ​																					
 
 ### 	分块查找（显示可见块）：
 
-<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/SeekTile.png" alt="SeekTile" style="zoom:110%;" />
+<img src="https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/SeekTile.png" />
 
+### 结果展示：
 
+#### LED屏显示
 
+![1111](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/led.gif)
+
+#### 多机投影显示
+
+![2222](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/multiproject.gif)
