@@ -14,10 +14,11 @@
 
 ### 	分块查找（显示可见块）：
 
-<img src="G:\面试\project\项目\全景播放器\SeekTile.png" alt="SeekTile" style="zoom:110%;" />
+<img src="https://github.com/lsonvoew/MyProject/blob/master/%E9%A1%B9%E7%9B%AE/%E5%85%A8%E6%99%AF%E6%92%AD%E6%94%BE%E5%99%A8/SeekTile.png" alt="SeekTile" style="zoom:110%;" />
 
 ### 	最终效果（LED与多投影）
 
-<video src="G:\面试\project\项目\全景播放器\led.mp4" width=80% ></video>
+<video src="https://github.com/lsonvoew/MyProject/blob/master/%E9%A1%B9%E7%9B%AE/%E5%85%A8%E6%99%AF%E6%92%AD%E6%94%BE%E5%99%A8/led.mp4" width=80% ></video>
 
-<video src="G:\面试\project\项目\全景播放器\multi_projector.mp4" width=80% ></video>
+<video src="https://github.com/lsonvoew/MyProject/blob/master/%E9%A1%B9%E7%9B%AE/%E5%85%A8%E6%99%AF%E6%92%AD%E6%94%BE%E5%99%A8/multi_projector.mp4" width=80% ></video>
+
