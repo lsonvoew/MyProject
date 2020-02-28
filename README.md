@@ -22,8 +22,17 @@
 
 #### LED屏显示
 
-![1111](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/led.gif)
+![LED](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/led.gif)
 
 #### 多机投影显示
 
-![2222](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/multiproject.gif)
+![MultiProjection](https://github.com/lsonvoew/MyProject/blob/master/project/Panorama_Video_Player/multiproject.gif)
+
+## 2 基于实时解码视频流的视觉插值技术
+
+#### 基于原子操作的DIBR:
+
+
+
+#### 基于迭代思想的DIBR：
+
