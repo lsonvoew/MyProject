@@ -32,7 +32,8 @@
 
 #### 基于原子操作的DIBR:
 
-
+![Atomic](https://github.com/lsonvoew/MyProject/blob/master/project/Image_Warping/imagewarping01.gif)
 
 #### 基于迭代思想的DIBR：
 
+![Iteration](https://github.com/lsonvoew/MyProject/blob/master/project/Image_Warping/imagewarping.gif)
